@@ -1,0 +1,2 @@
+# FunctionsOfDataAnalysis
+def python (FunctionsOfDataAnalysis)
